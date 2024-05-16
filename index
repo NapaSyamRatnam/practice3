@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple wesite</title>
+    <link href="travel website.css" rel="stylesheet">
+</head>
+<body>
+
+    <script src="https://kit.fontawesome.com/341e2112ec.js" crossorigin="anonymous"></script>
+
+    <div class="main">
+        <div class="main-text">
+             <h1 align="center"> <span> <i> Enjoy <br> your Travel</span> </i></h1>
+        </div>
+        
+     
+</div>
+  
+<div class="topnav">
+        
+    <a href="https://www.qatarairways.com/en-in/homepage.html?CID=SXIN23457098M&account=Bing-SEA_SASC-IN-EN&campaign=_IN-Generic-RMKT-exact&adgroup=Generic+Keywords&term=best+travel%2B+websites&&&&&&msclkid=bc4a73839de91e3d2a48162a629e8ab0&gclid=bc4a73839de91e3d2a48162a629e8ab0&gclsrc=3p.ds"> Home </a>  
+            <a href="travel about us.html">About </a>  
+            <a href="travel login.html"> Login</a> 
+            <a href="https://www.smartertravel.com/the-ultimate-packing-list/">Travel Essentials</a> 
+            <a href="https://www.google.com/search?sca_esv=599694997&rlz=1C1VDKB_enIN1001IN1001&q=travel+destionation+images&tbm=isch&chips=q:travel+destination+images,online_chips:india:a3GCwSn6x5A%3D&usg=AI4_-kT3Li1drEtTPnzGmy2FM61Mjtk56w&sa=X&ved=2ahUKEwiD_qLZ1eiDAxUfSmwGHVsSA_IQgIoDKAN6BAgXEAo&biw=1536&bih=739&dpr=1.25" > Images   </a>
+            <a href="https://www.makemytrip.com/bus-tickets/">Plan Your Trip</a> 
+            <input type="text" placeholder="Search..">
+                   
+    </div>
+
+    <img src="https://www.edumilestones.com/career-library/images/travel.png" width="1500" height="550">
+    <pre>
+    <p> <b>
+    The origin of the word "travel" is most likely lost to history. The term "travel" may originate from the Old French word travail, which means 'work'.According to the Merriam-Webster <br>
+    According to the Merriam-Webster dictionary, the first known use of the word travel was in the 14th century. It also states that the word comes from  Middle English travailen,travelen<br>
+    Middle English travailen,travelen and earlier from Old French travailler (which means to work strenuously, toil).<br>
+
+    In English, people still occasionally use the words travail, which means struggle. According to Simon Winchester in his book The Best Travelers' Tales (2004),the words travel and travail<br>
+    (2004), the words travel and travail both share an even more ancient root:<br>
+    a Roman instrument of torture called the tripalium (in Latin it means "three stakes", as in to impale). This link may reflect the extreme difficulty  of travel in ancient times. <br>
+    of travel in ancient times. Travel in modern times may or may not be much easier,<br>
+    depending upon the destination. Travel to Mount Everest, the Amazon rainforest, extreme tourism, and adventure travel are more difficult forms of travel.<br>
+    Connecting the UK to Continental Europe via the Channel Tunnel, the high-speed Eurostar train can travel at speeds of up to 186 mph (300 km/h) on your journey to London St Pancras International.<br>
+    Travel can also be more difficult depending on the method of travel, such as by bus, cruise ship, or even by bullock cart.<br> </b>
+    </p>
+</pre> 
+
+<section class="pen">
+  <div class="pen-img">
+      <img src="https://savannaintl.com/wp-content/uploads/2020/12/travel-world-1.jpg">
+  </div>
+  <div class="pen-text">
+      <h3> <i>Travel from Disneyland Paris (Marne-la-Vallée Chessy) to London St Pancras International by train in 3 hours 42 minutes</i></h3>
+      <p><b>If you want to know more about the journey from Disneyland Paris (Marne-la-Vallée Chessy) to London St Pancras <br>
+        International by train, look no further!<br>
+
+        The average journey time from Disneyland Paris (Marne-la-Vallée Chessy) to London St Pancras International by train is 7 hours 4 minutes, although on the fastest services it can take just 3 hours 42 minutes. 
+        Around 11 trains per day travel the 224 miles (361 km) between these two destinations. You'll need to make 1 change along the way to London St Pancras International. 
+        
+        Book train tickets from Disneyland Paris (Marne-la-Vallée Chessy) to London St Pancras International in advance instead of buying them on the day and they can start from €67.00. We'll always highlight the cheapest prices when you search in our Journey Planner.
+        
+        Ready to book? Start your search for cheap train tickets with us today. Keep reading for more information, including our timetable where you can view first and last train times, as well as tips on how to find cheap train tickets..</b></p>
+  </div>
+</section>
+
+<h1 align="center"> <i>Stay Here Enjoy your vacation </i></h1>
+<h2><i>Rajastani Tour </i></h2>
+
+<img src="https://tse3.mm.bing.net/th?id=OIP.IAfW3Uyo9LUn0Zx7qu-rfgHaE6&pid=Api&P=0&h=180" width="500" height="350">
+<img src="https://cdn.getyourguide.com/img/tour/416ed8756d5d78bf.jpeg/132.webp" width="500" height="350">
+<img src="https://cdn.getyourguide.com/img/tour/64a17c7f2ec8b.jpeg/132.webp" width="470" height="350">
+<h1 align="center"> <i>Enjoy your space </i></h1>
+<img src="https://blogassets.airtel.in/wp-content/uploads/2023/05/felix-rostig-UmV2wr-Vbq8-unsplash.jpg" width="750" height="400">
+  <img src="https://promos.makemytrip.com/notification/xhdpi/BusinessTravel1.jpg" width="700" height="400">
+
+  <h1><i>“Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.”
+    ― Terry Pratchett, A Hat Full of Sky
+    </i></h1><br>
+
+  <h1 align="center"> <i>Plan your trip by using following Transportation </i></h1>
+    <div class="icon">
+     <i class="fa-solid fa-bus"></i>
+    <i class="fa-solid fa-train"></i>
+     <i class="fa-solid fa-car"></i>
+     <i class="fa-solid fa-plane-departure"></i>
+     <i class="fa-solid fa-motorcycle"></i>
+     <i class="fa-solid fa-bicycle"></i>
+     </div>
+     <br>
+     <div class="home">
+        <div class="home-text">
+            <form>
+            <label for="fname">start from</label>
+            <input type="text" placeholder="Enter The Arriveplace"required>
+            <br>
+             <label for="fname">departure</label>
+            <input type="text" placeholder="Enter The destination"required>      
+        </div>
+        </form>
+    </div>
+
+    
+  <div class="content">  
+        
+    <ul>
+        <h3> <i>Support</i></h3>
+            <li>Contact </li>
+            <li>Legal Notice</li>
+            <li>Privacy Policy</li>
+            <li> Cookies and Marketing Preferences</li>
+            <li> General Terms and Conditions</li>
+            <li>Information according to the Digital Services Act</li>
+           </ul>
+    <ul>
+        <h3><i>Company </i></h3>
+       <li> About Us </li>
+       <li>Careers</li>
+       <li> Blog</li>
+       <li>Press</li>
+       <li>Gift Cards</li>
+       <li>Explorer</li>
+        
+    </ul>
+    
+    <ul>
+        <h4><i>Useful Information </i></h4>
+        <li>About Saudi</li>
+       <li> Safety Travel Tips </li>
+       <li>  Useful Contacts </li>
+       <li> Travel Guidelines </li>
+       <li> Sitemap</li>
+            <li> Do not Sell or Share my Personal Information</li>
+        
+    </ul>
+    
+</div>
+
+<footer>
+    <p align="right"> 2024 Copy right.<br>
+    <a href="#">All rights are reserved</a></p>
+   
+
+   </footer>
+
+
+</body>
+</html>
